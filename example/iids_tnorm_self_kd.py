@@ -2,7 +2,7 @@ from __future__ import print_function, absolute_import
 import argparse
 import os.path as osp
 import shutil
-print("Hamoon")
+
 import numpy as np
 import sys
 import torch
