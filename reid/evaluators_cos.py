@@ -9,7 +9,8 @@ from .feature_extraction import extract_cnn_feature, extract_cnn_feature_specifi
 from .utils.meters import AverageMeter
 
 import numpy as np
-
+# Hamoon
+print("Hamoon")
 
 def fresh_bn(model, data_loader):
     model.train()
